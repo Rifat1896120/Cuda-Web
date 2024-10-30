@@ -1,0 +1,111 @@
+@media only screen and (max-width: 1024px) {
+  .row {
+    margin: 0 1.5rem;
+  }
+  .nav-wrap {
+    display: none;
+  }
+  .mobile-menu span {
+    display: block;
+  }
+  .stikey {
+    padding: 0 0;
+  }
+  .stikey .logo {
+    margin-top: 1rem;
+  }
+  .scroll.nav-home {
+    margin-top: 10rem;
+  }
+  html {
+    font-size: 57.5%;
+  }
+  .testimonials-section .clint-photo {
+    width: 100%;
+    float: none;
+    text-align: center;
+    height: 13rem;
+  }
+  .testimonials-section .clint-review {
+    width: 100%;
+    float: none;
+    text-align: center;
+  }
+  .clint-review p {
+    font-size: 2.1rem;
+    width: 100%;
+  }
+  .contuct-section form {
+    width: 94%;
+    margin: auto;
+  }
+  .hero-text {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 980px) {
+  .span_1_of_4 {
+    width: 49.2%;
+  }
+  .span_1_of_4:nth-child(3) {
+    margin-left: 0;
+  }
+  html {
+    font-size: 62.5%;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .little-dsc {
+    width: 100%;
+  }
+  h1 {
+    font-size: 3.5rem;
+  }
+  h2 {
+    font-size: 3rem;
+  }
+  h4 {
+    font-size: 2rem;
+  }
+  h3 {
+    font-size: 2rem;
+  }
+}
+@media only screen and (max-width: 530px) {
+  .social-item ul li {
+    margin: 0 0.5rem;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .span_1_of_4 {
+    width: 100%;
+  }
+  h2 {
+    font-size: 2.5rem;
+  }
+  h1 {
+    font-size: 3rem;
+  }
+  .testimonials-section div div:nth-child(3),
+  .testimonials-section div div:nth-child(4) {
+    margin-top: 3rem;
+  }
+  .contuct-section div textarea {
+    margin-top: 1rem;
+  }
+  html {
+    font-size: 57.5%;
+  }
+}
+@media only screen and (max-width: 280px) {
+  .social-item ul li {
+    margin: 0 0;
+  }
+  html {
+    font-size: 49.5%;
+  }
+  .contuct-section div .submit {
+    width: 17rem;
+    height: 6rem;
+  }
+}
